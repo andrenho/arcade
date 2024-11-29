@@ -36,10 +36,6 @@ Top:
 Windows 3.1
 - [X] Windows
 
-Windows 95:
-- [ ] Windows
-- [ ] Skifree
-
 Utilities:
 - [X] Banner
 - [X] Print Master
@@ -89,26 +85,26 @@ ScummVM
 
 MSX
 ---
-- [ ] Zanac
+- [x] Zanac
 - [ ] Zanac EX
-- [ ] Rambo
-- [ ] The Castle
-- [ ] Castle Excellent
-- [ ] H.E.R.O.
-- [ ] Payload
-- [ ] Inspectour Z
-- [ ] Hot Logo
+- [x] Rambo
+- [x] The Castle
+- [x] Castle Excellent
+- [x] H.E.R.O.
+- [x] Payload
+- [x] Inspectour Z
+- [x] Hot Logo
 - [ ] Kung Fu Master 1/2
-- [ ] The Goonies
-- [ ] Nemesis 3
-- [ ] Kings Valley
-- [ ] Maze of Galious
-- [ ] Knightmare
-- [ ] Penguin Adventure
-- [ ] Road Fighter
-- [ ] Eggerland
-- [ ] Green Beret
-- [ ] Magical Tree
+- [x] The Goonies
+- [x] Nemesis 3
+- [x] Kings Valley
+- [x] Maze of Galious
+- [x] Knightmare
+- [x] Penguin Adventure
+- [x] Road Fighter
+- [x] Eggerland
+- [x] Green Beret
+- [x] Magical Tree
 - [ ] Uzix
 
 Amiga
