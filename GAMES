@@ -39,7 +39,7 @@ Windows 3.1
 Utilities:
 - [X] Banner
 - [X] Print Master
-- [ ] Norton Commander
+- [x] Norton Commander
 - [X] TurboC
 - [ ] QuickBASIC
 
@@ -167,3 +167,8 @@ Nintendo 64
 
 WII
 ---
+
+Other settings
+--------------
+- [ ] Overclocking
+- [ ] Show game art on game startup
