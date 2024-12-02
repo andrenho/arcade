@@ -35,6 +35,7 @@ Top:
 
 Windows 3.1
 - [X] Windows
+- [ ] Windows 3.1 software
 
 Utilities:
 - [X] Banner
@@ -45,12 +46,12 @@ Utilities:
 
 Ports
 -----
-- [ ] AGS
+- [x] AGS
 - [x] Cannonball
 - [x] Cave Story
-- [ ] Commander Keen
+- [x] Commander Keen
 - [x] Descent
-- [ ] DOOM
+- [x] DOOM
 - [x] Duke Nukem 3D
 - [x] OpenTTD
 - [x] Prince of Persia (SDLPop)
@@ -110,30 +111,34 @@ MSX
 Amiga
 -----
 - [ ] Workbench
-- [ ] Lotus Turbo Challenge
-- [ ] Colonization
-- [ ] Dune II
+- [x] Lotus Turbo Challenge
+- [x] Colonization
+- [x] Dune II
 - [ ] The Settlers
-- [ ] Civilization
-- [ ] Sensible World of Soccer 96/97
-- [ ] Formula One Grand Prix
-- [ ] Cannon Fodder
-- [ ] Syndicate
+- [x] Civilization
+- [x] Sensible World of Soccer 96/97
+- [x] Formula One Grand Prix
+- [x] Cannon Fodder
+- [x] Syndicate
 
 Apple II
 --------
 
 - [ ] Wizardry
-- [ ] Lode Runner
-- [ ] Ultima IV
-- [ ] Karateka
-- [ ] Prince of Persia
+- [x] Bard
+- [x] Lode Runner
+- [x] Ultima IV
+- [x] Karateka
+- [x] Prince of Persia
 - [ ] Oregon Trail
-- [ ] Beyond Castle Wolfenstein
+- [x] Beyond Castle Wolfenstein
 - [ ] Some utilities
 
 Macintosh
 ---------
+
+- [ ] Base system
+- [ ] Prince of Persia
 
 Arcade
 ------
@@ -168,7 +173,17 @@ Nintendo 64
 WII
 ---
 
+Development environment
+-----------------------
+- [ ] Windows 3.11
+- [ ] MSX
+- [ ] Amiga
+- [ ] Apple II
+- [ ] Macintosh
+- [ ] Commodore 64
+
 Other settings
 --------------
 - [ ] Overclocking
 - [ ] Show game art on game startup
+- [ ] Backup
