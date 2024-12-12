@@ -1,37 +1,34 @@
 # Arcade
 
-- [ ] Make it work with a single game
+- [x] Make it work with a single game
+  - https://github.com/kaz321123/Mame-Support-Files/tree/master/Mame2003%20Roms
 
 # Missing images
 
 - DOS
-  - [ ] Age of Empires 2
-  - [ ] Colonization
-  - [ ] Diablo
-  - [ ] Mortal Kombat
-  - [ ] Syndicate
+  - [x] Civilization
+  - [x] Mortal Kombat
+  - [x] Syndicate
 
 - Windows 3.1
-  - [ ] Operation: Inner Space
-  - [ ] Lunar Lander
-  - [ ] BangBang
-  - [ ] Monopoly Deluxe
-  - [ ] Deflektor
-  - [ ] Castaway Screen Saver
+  - [x] BangBang
+  - [x] Monopoly Deluxe
+  - [x] Deflektor
+  - [x] Castaway Screen Saver
   - [ ] Paint Shop Pro
   - [ ] Windows PCTool 2.0 File Manager
-  - [ ] Symantec Game Pack
+  - [x] Symantec Game Pack
   - [ ] Symantec Smart Dots
 
 - ScummVM
-  - [ ] Grim Fandango
-  - [ ] Remove ResidualVM
+  - [x] Grim Fandango
+  - [x] Remove ResidualVM
   - [ ] Sanitarium
-  - [ ] Sam & Max
+  - [x] Sam & Max
   - [ ] Some AGS games
 
 - MSX
-  - [ ] Kung Fu Master 1/2
+  - [x] Kung Fu Master 1/2
   - [ ] MSX-DOS
 
 - Apple II
@@ -48,29 +45,34 @@
     - [ ] Maelstorm
 
 - Arcade
-  TODO
+  - [x] Games
 
-- Master System
-  TODO
+- Commodore 64
+  - [x] Games
+  - [ ] Applications
+  - [ ] Development environment
 
-- NES
-  TODO
+- [x] Master System
+- [x] NES
+- [x] Mega Drive
+- [x] SuperNES
+- [x] Nintendo 64
+- [x] Nintendo DS
 
-- Mega Drive
-  TODO
+# Other settings
 
-- SuperNES
-  TODO
+- [ ] Backup
+- [ ] Key cheatsheet
+- [ ] Overclocking
+- [ ] Faster RPi on table
 
-- Nintendo 64
-  TODO
+# Other games
 
-# Emulators
-
-- [ ] Nintendo DS
+- [ ] Good 2P games
 
 # Configuration
 
+- [ ] Retropie 4:3 on TV
 - Windows 3.1
   - [ ] Configure sound
 
@@ -97,7 +99,3 @@
   - [ ] Install operating system (new)
   - [ ] Development environment (new)
 
-# Other settings
-
-- [ ] Overclocking
-- [ ] Backup
